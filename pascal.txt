@@ -1,0 +1,8 @@
+program title1;
+label c1, c2;
+begin
+c2: 
+goto c1;
+goto c1;
+if true then ;
+end.
